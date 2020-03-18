@@ -15,5 +15,7 @@ Key Bindings:\
   '2' = Toggles 'Flower' as selected buildable\
   '3' = Toggles 'House' as selected buildable\
   
+  [![Run on Repl.it](https://repl.it/badge/github/tristantyler/BlockGame-AC)](https://repl.it/github/tristantyler/BlockGame-AC)
+  
   
   
